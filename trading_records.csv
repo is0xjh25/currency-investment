@@ -1,0 +1,4 @@
+trading_records
+Date,TWD,AUD,Status (b/s/a),Portfolio,Profits
+,,,,,
+Date,Buy or Sell (b/s),TWD/AUD,Price,Amount,Calculated (y/n)
